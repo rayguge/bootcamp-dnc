@@ -295,12 +295,22 @@
     }
 
     form {
-        width: 95%;
+        width: 90%;
         font-size: 20px;
     }
 
     .checkboxItens label{
         font-size: 17px;
+    }
+
+
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .endereco {
+        width: 90%;
+        margin-bottom: 20px;
     }
 
 }
